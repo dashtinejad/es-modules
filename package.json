@@ -1,0 +1,13 @@
+{
+  "name": "es-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mojtaba Dashtinejad <mojtaba@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^2.5.1"
+  }
+}
